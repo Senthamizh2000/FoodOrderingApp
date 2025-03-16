@@ -1,17 +1,17 @@
-🍕 Food Ordering App
+🍕 **Food Ordering App**
 
-📌 Overview
+📌 **Overview**
 
 This is a simple Food Ordering App built using Android (Java/XML). Users can select food items from a list and place an order. The total price of the selected items will be displayed before confirming the order.
 
-📱 Features
+📱 **Features**
 
 ✅ List of food items with checkboxes (Pizza, Burger, Coke, etc.)
 ✅ Dynamic bill calculation based on selected items
 ✅ "Place Order" button to confirm the order
 ✅ Simple and user-friendly UI
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 
 Language: Java (Android SDK)
 
@@ -19,7 +19,7 @@ UI Layout: XML (RelativeLayout, LinearLayout)
 
 IDE: Android Studio
 
-📂 Project Structure
+📂 **Project Structure**
 
 FoodOrderingApp/
 │-- app/
@@ -29,25 +29,3 @@ FoodOrderingApp/
 │   ├── AndroidManifest.xml (App configuration)
 │-- .gitignore
 │-- README.md
-
-🚀 Getting Started
-
-🔹 Prerequisites
-
-Ensure you have the following installed:
-
-Android Studio
-
-JDK 8 or higher
-
-Gradle (comes with Android Studio)
-
-🔹 Installation
-
-Clone the repository:
-
-git clone https://github.com/your-username/FoodOrderingApp.git
-
-Open the project in Android Studio.
-
-Run the app on an emulator or a real device.
