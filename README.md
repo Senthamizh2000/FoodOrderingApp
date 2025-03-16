@@ -8,6 +8,7 @@ Users can select food items from a list and place an order.
 
 The total price of the selected items will be displayed before confirming the order.
 
+
 📱 **Features**
 
 ✅ List of food items with checkboxes (Pizza, Burger, Coke, etc.)
@@ -18,6 +19,7 @@ The total price of the selected items will be displayed before confirming the or
 
 ✅ Simple and user-friendly UI
 
+
 🛠️ **Tech Stack**
 
 Language: Java (Android SDK)
@@ -25,6 +27,7 @@ Language: Java (Android SDK)
 UI Layout: XML (RelativeLayout, LinearLayout)
 
 IDE: Android Studio
+
 
 📂 **Project Structure**
 
