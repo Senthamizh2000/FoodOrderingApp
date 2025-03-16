@@ -33,9 +33,16 @@ IDE: Android Studio
 
 FoodOrderingApp/
 │-- app/
+
 │   ├── src/main/java/com/example/ordering (Java files)
+
 │   ├── res/layout/activity_main.xml (UI layout)
+
 │   ├── res/values/strings.xml (Text values)
+
 │   ├── AndroidManifest.xml (App configuration)
+
 │-- .gitignore
+
 │-- README.md
+
