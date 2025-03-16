@@ -7,8 +7,11 @@ This is a simple Food Ordering App built using Android (Java/XML). Users can sel
 📱 **Features**
 
 ✅ List of food items with checkboxes (Pizza, Burger, Coke, etc.)
+
 ✅ Dynamic bill calculation based on selected items
+
 ✅ "Place Order" button to confirm the order
+
 ✅ Simple and user-friendly UI
 
 🛠️ **Tech Stack**
