@@ -32,6 +32,7 @@ IDE: Android Studio
 📂 **Project Structure**
 
 FoodOrderingApp/
+
 │-- app/
 
 │   ├── src/main/java/com/example/ordering (Java files)
