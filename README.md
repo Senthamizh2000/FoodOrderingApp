@@ -2,7 +2,11 @@
 
 📌 **Overview**
 
-This is a simple Food Ordering App built using Android (Java/XML). Users can select food items from a list and place an order. The total price of the selected items will be displayed before confirming the order.
+This is a simple Food Ordering App built using Android (Java/XML). 
+
+Users can select food items from a list and place an order. 
+
+The total price of the selected items will be displayed before confirming the order.
 
 📱 **Features**
 
